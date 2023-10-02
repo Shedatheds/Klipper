@@ -12,15 +12,27 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
 
 # Setup
 1. Start "Raspberry Pi Imager" and press "CHOOSE OS"
+   
    ![image](img/Install_MainsailOS/img1.png)
+   
 2. Scroll down and pick "Other Specific-Purpose OS"
+   
    ![image](img/Install_MainsailOS/img2.png)
+   
 3. Here you choose option "3D Printing"
+   
    ![image](img/Install_MainsailOS/img3.png)
+   
 4. Now you have to decide operatingsystem and we pick "Mainsail OS"
+   
    ![image](img/Install_MainsailOS/img4.png)
+   
 5. Recomended installation is "32-bit" so we pick that and move on
+   
    ![image](img/Install_MainsailOS/img5.png)
+   
 6. Next step is to choose storage
    ![image](img/Install_MainsailOS/img6.png)
+
+7.
    
