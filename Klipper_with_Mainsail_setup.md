@@ -11,3 +11,16 @@ If you don't have "Raspberry Pi Imager" installed on your computer, then it's ti
 You can download it here: <a href="https://www.raspberrypi.com/software/">Raspberry Pi Imager</a>
 
 # Setup
+1. Start "Raspberry Pi Imager" and press "CHOOSE OS"
+   [img1]
+2. Scroll down and pick "Other Specific-Purpose OS"
+   [img2]
+3. Here you choose option "3D Printing"
+   [img3]
+4. Now you have to decide operatingsystem and we pick "Mainsail OS"
+   [img4]
+5. Recomended installation is "32-bit" so we pick that and move on
+   [img5]
+6. Next step is to choose storage
+   [img6]
+   
