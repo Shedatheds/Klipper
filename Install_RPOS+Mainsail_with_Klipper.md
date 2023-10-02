@@ -1,5 +1,5 @@
 # Parts needed
-
+- [Raspberry Pi 3b or heigher]
 Raspberry Pi OS (previously called Raspbian) is the official supported operating system and your Raspberry Pi needs an operating system to work.
 Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi. 
 Download and install Raspberry Pi Imager to a computer with an SD card reader. 
