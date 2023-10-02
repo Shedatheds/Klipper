@@ -32,6 +32,7 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
    ![image](img/Install_MainsailOS/img5.png)
    
 6. Next step is to choose storage
+   
    ![image](img/Install_MainsailOS/img6.png)
 
 7.
