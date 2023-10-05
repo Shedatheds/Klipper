@@ -2,13 +2,30 @@
 - Raspberry Pi 3b or heigher
 - Minimum of 16GB micro SD card (minimum size can be 4Gb, 16 - 64Gb is recommended as you will later store print files on this card. Never cheap out on build parts, that includes quality SD card as well)
 # Overview
-Raspberry Pi OS (previously called Raspbian) is the official supported operating system and your Raspberry Pi needs an operating system to work.
-Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi. 
+Raspberry Pi Imager is the quick and easy way to install MainsailOS and other operating systems to a microSD card, ready to use with your Raspberry Pi. 
 Download and install Raspberry Pi Imager to a computer with an SD card reader. 
 Put the SD card you'll use with your Raspberry Pi into the reader and run Raspberry Pi Imager.
 
 If you don't have "Raspberry Pi Imager" installed on your computer, then it's time to do it now!
 You can download it here: <a href="https://www.raspberrypi.com/software/">Raspberry Pi Imager</a>
+
+What is MainsailOS?
+MainsailOS is a prebuilt image for several Single Board Computers (SBC) models. It contains some pre-configuration and software needed to run with  firmware and 
+as your WebGUI to control your 3D printer.
+MainsailOS images includes:
+​
+​- Minsail
+- Klipper
+- Moonraker
+- Crowsnest as webcam daemon
+​- Sonar as keep alive daemon
+​- Timelapse plugin for Moonraker
+- Preinstalled software dependencies:
+  - Measuring Resonances
+  - Katapult (Former CanBoot)
+  - KlipperScreen
+​
+​MainsailOS is not the "all in one" solution for any use case. It is just a simple and easy starting point to enjoy Mainsail and its features.
 
 # Setup
 1. Start "Raspberry Pi Imager" and press "CHOOSE OS"
