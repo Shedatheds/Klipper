@@ -35,5 +35,21 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
    
    ![image](img/Install_MainsailOS/img6.png)
 
-7.
+7. .........
+
+   ![image](img/Install_MainsailOS/img7.png)
+
+8. .........
+
+   ![image](img/Install_MainsailOS/img8.png)
+
+9. .........
+
+    ![image](img/Install_MainsailOS/img9.png)
+
+10. ........
+
+    ![image](img/Install_MainsailOS/img10.png)
+
+11.
    
