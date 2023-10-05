@@ -45,15 +45,15 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
 
 9. .........
 
-    ![image](img/Install_MainsailOS/img9.png)
+   ![image](img/Install_MainsailOS/img9.png)
 
 10. ........
 
-    ![image](img/Install_MainsailOS/img10.png)
+   ![image](img/Install_MainsailOS/img10.png)
 
 11. .........
 
-    ![image](img/Install_MainsailOS/img11.png)
+   ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
@@ -65,14 +65,14 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
 
 14. .........
 
-    ![image](img/Install_MainsailOS/img14.png)
+   ![image](img/Install_MainsailOS/img14.png)
 
 15. .........
 
-    ![image](img/Install_MainsailOS/img15.png)
+   ![image](img/Install_MainsailOS/img15.png)
 
 16. .........
 
-    ![image](img/Install_MainsailOS/img16.png)
+   ![image](img/Install_MainsailOS/img16.png)
 
 17. ..........
