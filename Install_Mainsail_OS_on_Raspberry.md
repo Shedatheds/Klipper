@@ -49,11 +49,11 @@ You can download it here: <a href="https://www.raspberrypi.com/software/">Raspbe
 
 10. ........
 
-   ![image](img/Install_MainsailOS/img10.png)
+    ![image](img/Install_MainsailOS/img10.png)
 
 11. .........
 
-   ![image](img/Install_MainsailOS/img11.png)
+    ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
