@@ -52,7 +52,8 @@ MainsailOS images includes:
    
    ![image](img/Install_MainsailOS/img6.png)
 
-7. .........
+7. When you press "Choose Storage" yor promt to pick the SD card you have put into your reader. In this sample we pick "Generic Mass-Storage USB Device - 31.9 GB" and is mounted as E:\. 
+If you have more Cardreader conected to your computer be sure to pick correct SD card and move on!
 
    ![image](img/Install_MainsailOS/img7.png)
 
