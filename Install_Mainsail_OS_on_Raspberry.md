@@ -76,7 +76,6 @@ MainsailOS images includes:
   - You need a username and password to use SSH and for your security. Don't forget your password because you have to reinstall everything if you forgot it and need to use SSH.
 - Configure wireless LAN:
   - If you are going to use WIFI to connect to your LAN, then you need to fill in SSID and password. Just ignor this part if you dont have WIFI and connect your raspberry with a cable to your LAN.
-10 ......
 
     ![image](img/Install_MainsailOS/img10.png)
 
