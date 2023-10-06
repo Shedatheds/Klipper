@@ -91,7 +91,7 @@ MainsailOS images includes:
   - "Play sound when finish" let you know when your SD card is ready to be removed.
   - "Eject media when finish" make it safe to remove SD card withour risking to damage it.
 
-    ![image](img/Install_MainsailOS/img12.png)
+  ![image](img/Install_MainsailOS/img12.png)
 
 Click, "Save" when you are ready for next step. All settings are stored for this session and until you close down Raspberry Pi imager.
 
