@@ -17,9 +17,9 @@ MainsailOS images includes:
 - Mainsail
 - Klipper
 - Moonraker
-- Crowsnest as webcam daemon
-​- Sonar as keep alive daemon
-​- Timelapse plugin for Moonraker
+- Crowsnest as webcam daemon​
+- Sonar as keep alive daemon
+- Timelapse plugin for Moonraker
 - Preinstalled software dependencies:
   - Measuring Resonances
   - Katapult (Former CanBoot)
