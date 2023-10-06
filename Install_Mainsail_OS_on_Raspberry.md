@@ -14,7 +14,7 @@ MainsailOS is a prebuilt image for several Single Board Computers (SBC) models. 
 as your WebGUI to control your 3D printer.
 MainsailOS images includes:
 
-​- Minsail
+- Mainsail
 - Klipper
 - Moonraker
 - Crowsnest as webcam daemon
