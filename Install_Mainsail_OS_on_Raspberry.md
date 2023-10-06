@@ -103,7 +103,7 @@ MainsailOS images includes:
 
     ![image](img/Install_MainsailOS/img14.png)
 
-12. .........
+12. This will take some time and you will have enough of time to grab a cup of coffe and relax a bit until you hear the sound from Raspberry Pi Imager that writing is finish!
 
     ![image](img/Install_MainsailOS/img15.png)
 
