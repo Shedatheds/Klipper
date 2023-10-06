@@ -81,32 +81,32 @@ MainsailOS images includes:
   ![image](img/Install_MainsailOS/img10.png)
 
 - Wireless LAN country:
-  -If you use wireless connection you set what country it's located in.
+  - If you use wireless connection you set what country it's located in.
 - Set local settings:
-  - Chooce local time zone you like to use and keyboard layout. 
+  - Chooce local time zone you like to use and keyboard layout.
 
-![image](img/Install_MainsailOS/img11.png)
-
-11. .........
-
-    ![image](img/Install_MainsailOS/img12.png)
+    ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
-    ![image](img/Install_MainsailOS/img13.png)
+    ![image](img/Install_MainsailOS/img12.png)
 
 13. .........
 
-    ![image](img/Install_MainsailOS/img14.png)
+    ![image](img/Install_MainsailOS/img13.png)
 
 14. .........
 
-    ![image](img/Install_MainsailOS/img15.png)
+    ![image](img/Install_MainsailOS/img14.png)
 
 15. .........
 
+    ![image](img/Install_MainsailOS/img15.png)
+
+16. .........
+
     ![image](img/Install_MainsailOS/img16.png)
 
-16. ..........
+17. ..........
 
 # Summary
