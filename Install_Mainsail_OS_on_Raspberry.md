@@ -58,6 +58,7 @@ MainsailOS images includes:
    ![image](img/Install_MainsailOS/img7.png)
 
 8. Before we we write image to the SD card we need to add hostname, Enable SSH, WIFI etc. so by pressing the wheel in the bottom right corner we marked with a green circle you enter advanced options for your MainsailOS installation.
+
    It's possible to skip this but if you are not an advanced user we recomend to follow this guide.
 
    ![image](img/Install_MainsailOS/img8.png)
