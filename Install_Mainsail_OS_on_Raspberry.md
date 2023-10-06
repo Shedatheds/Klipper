@@ -13,7 +13,7 @@ What is MainsailOS?
 MainsailOS is a prebuilt image for several Single Board Computers (SBC) models. It contains some pre-configuration and software needed to run with  firmware and 
 as your WebGUI to control your 3D printer.
 MainsailOS images includes:
-​
+
 ​- Minsail
 - Klipper
 - Moonraker
