@@ -24,7 +24,7 @@ MainsailOS images includes:
   - Measuring Resonances
   - Katapult (Former CanBoot)
   - KlipperScreen
-​
+
 ​MainsailOS is not the "all in one" solution for any use case. It is just a simple and easy starting point to enjoy Mainsail and its features.
 
 # Setup
