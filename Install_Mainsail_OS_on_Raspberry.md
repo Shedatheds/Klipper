@@ -109,7 +109,7 @@ MainsailOS images includes:
 
   Yeah, it takes time........
 
-    ![image](img/Install_MainsailOS/img16.png)
+   ![image](img/Install_MainsailOS/img16.png)
 
 14. ..........
 
