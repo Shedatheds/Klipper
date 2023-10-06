@@ -68,30 +68,30 @@ MainsailOS images includes:
 
     ![image](img/Install_MainsailOS/img10.png)
 
-13. .........
+11. .........
 
      ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
-   ![image](img/Install_MainsailOS/img12.png)
+    ![image](img/Install_MainsailOS/img12.png)
 
 13. .........
-   
-   ![image](img/Install_MainsailOS/img13.png)
+
+    ![image](img/Install_MainsailOS/img13.png)
 
 14. .........
 
-   ![image](img/Install_MainsailOS/img14.png)
+    ![image](img/Install_MainsailOS/img14.png)
 
-15. .........
+17. .........
 
-   ![image](img/Install_MainsailOS/img15.png)
+    ![image](img/Install_MainsailOS/img15.png)
 
 16. .........
 
-   ![image](img/Install_MainsailOS/img16.png)
+    ![image](img/Install_MainsailOS/img16.png)
 
-17. ..........
+19. ..........
 
 # Summary
