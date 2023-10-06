@@ -87,26 +87,30 @@ MainsailOS images includes:
 
   ![image](img/Install_MainsailOS/img11.png)
 
-12. .........
+- Persistent settings:
+  - "Play sound when finish" let you know when your SD card is ready to be removed.
+  - "Eject media when finish" make it safe to remove SD card withour risking to damage it.
+
+Click, "Save" when you are ready for next step. All settings are stored for this session and until you close down Raspberry Pi imager.
 
     ![image](img/Install_MainsailOS/img12.png)
 
-13. .........
+10. .........
 
     ![image](img/Install_MainsailOS/img13.png)
 
-14. .........
+11. .........
 
     ![image](img/Install_MainsailOS/img14.png)
 
-15. .........
+12. .........
 
     ![image](img/Install_MainsailOS/img15.png)
 
-16. .........
+13. .........
 
     ![image](img/Install_MainsailOS/img16.png)
 
-17. ..........
+14. ..........
 
 # Summary
