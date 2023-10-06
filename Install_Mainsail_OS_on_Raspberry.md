@@ -67,6 +67,8 @@ MainsailOS images includes:
 
 - Set hostname: Raspberry
   - This is where you name your hostname that will be used as Raspberry.local when you connect to your MainsailOS installation. It's also possible to use IP number of your Raspberry if your computer dont support .local on your LAN.
+- Enable SSH: Use password authentication
+  - Somehow you need to connect to your Raspberry and with Putty you can communicate with SSH and manage your installation when needed. By enable SSH you can do all of this whenevery you would need it.
 
    ![image](img/Install_MainsailOS/img9.png)
 
