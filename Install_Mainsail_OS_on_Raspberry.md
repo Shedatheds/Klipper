@@ -85,7 +85,7 @@ MainsailOS images includes:
 - Set local settings:
   - Chooce local time zone you like to use and keyboard layout.
 
-    ![image](img/Install_MainsailOS/img11.png)
+  ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
