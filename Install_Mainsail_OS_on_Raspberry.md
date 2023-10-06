@@ -63,7 +63,10 @@ MainsailOS images includes:
 
    ![image](img/Install_MainsailOS/img8.png)
 
-9. .........
+9. Advanced options let you set some important parameters directly without to be needed to do it with SSH later when you startup your Rasperry Pi with MainsailOP for the first time. With this done you have a out of the box installation ready directly when you power up your Raspberry Pi for the first time.
+
+- Set hostname: Raspberry
+  - This is where you name your hostname that will be used as Raspberry.local when you connect to your MainsailOS installation. It's also possible to use IP number of your Raspberry if your computer dont support .local on your LAN.
 
    ![image](img/Install_MainsailOS/img9.png)
 
