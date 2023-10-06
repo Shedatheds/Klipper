@@ -72,7 +72,8 @@ MainsailOS images includes:
 
    ![image](img/Install_MainsailOS/img9.png)
 
-10. ........
+- Set username and password: Username and password
+  - You need a username and password to use SSH and for your security. Don't forget your password because you have to reinstall everything if you forgot it and need to use SSH. 
 
     ![image](img/Install_MainsailOS/img10.png)
 
