@@ -95,7 +95,7 @@ MainsailOS images includes:
 
 Click, "Save" when you are ready for next step. All settings are stored for this session and until you close down Raspberry Pi imager.
 
-10. .........
+10. Now we are ready to write everything to the SD card, so hit button "Write" and folow instruction.
 
     ![image](img/Install_MainsailOS/img13.png)
 
