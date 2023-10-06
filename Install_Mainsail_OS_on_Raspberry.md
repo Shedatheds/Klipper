@@ -1,6 +1,7 @@
 # Parts needed
 - Raspberry Pi 3b or heigher
 - Minimum of 16GB micro SD card (minimum size can be 4Gb, 16 - 64Gb is recommended as you will later store print files on this card. Never cheap out on build parts, that includes quality SD card as well)
+- LAN, either with WIFI or cable
 # Overview
 Raspberry Pi Imager is the quick and easy way to install MainsailOS and other operating systems to a microSD card, ready to use with your Raspberry Pi. 
 Download and install Raspberry Pi Imager to a computer with an SD card reader. 
@@ -107,9 +108,9 @@ MainsailOS images includes:
 
     ![image](img/Install_MainsailOS/img15.png)
 
-  Yeah, it takes time........
+    Yeah, it takes time........
 
-   ![image](img/Install_MainsailOS/img16.png)
+    ![image](img/Install_MainsailOS/img16.png)
 
 14. ..........
 
