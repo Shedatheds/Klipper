@@ -112,7 +112,7 @@ MainsailOS images includes:
 
     ![image](img/Install_MainsailOS/img16.png)
 
-14. Congratulations, if you  
+14. Congratulations, if you get a message like below you have made it!
 
     ![image](img/Install_MainsailOS/img17.png)
 
