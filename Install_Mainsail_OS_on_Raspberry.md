@@ -92,8 +92,8 @@ MainsailOS images includes:
   - "Eject media when finish" make it safe to remove SD card withour risking to damage it.
 
 Click, "Save" when you are ready for next step. All settings are stored for this session and until you close down Raspberry Pi imager.
-
-  ![image](img/Install_MainsailOS/img12.png)
+    
+    ![image](img/Install_MainsailOS/img12.png)
 
 10. .........
 
