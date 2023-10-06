@@ -117,3 +117,5 @@ MainsailOS images includes:
     ![image](img/Install_MainsailOS/img17.png)
 
 # Summary
+
+Remove SD card and put it into your Raspberry, power it up and enter Raspberry.local in your browser and your browser should show Mainsail webinterface. How to configurate klipper will be in an other guide that we releas in the future........
