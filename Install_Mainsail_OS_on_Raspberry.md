@@ -66,11 +66,11 @@ MainsailOS images includes:
 
 10. ........
 
-    ![image](img/Install_MainsailOS/img10.png)
+   ![image](img/Install_MainsailOS/img10.png)
 
 11. .........
 
-    ![image](img/Install_MainsailOS/img11.png)
+   ![image](img/Install_MainsailOS/img11.png)
 
 12. .........
 
