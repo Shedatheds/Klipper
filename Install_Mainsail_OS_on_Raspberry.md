@@ -113,4 +113,6 @@ MainsailOS images includes:
 
 14. ..........
 
+    ![image](img/Install_MainsailOS/img17.png)
+
 # Summary
