@@ -1,6 +1,6 @@
 # Klipper
 
-<img width="50%" src="img/klipper-logo.png?raw=true" alt="Sample image compressed 50%" title="Sample image compressed 50%" >
+<img width="10%" src="img/klipper-logo.png?raw=true" alt="Sample image compressed 50%" title="Sample image compressed 50%" >
 <div align="center">
   <img src="img/klipper-logo.png?raw=true" alt="Klipper tutorial 3d printer" title="Klipper tutorial 3d printer">
 </div>
